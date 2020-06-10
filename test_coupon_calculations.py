@@ -1,5 +1,5 @@
 import unittest
-from coupon_calculations import calculate_price
+from store.coupon_calculations import calculate_price
 
 
 class FunctionTestCase(unittest.TestCase):
